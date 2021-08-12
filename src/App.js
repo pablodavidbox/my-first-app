@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Aprendiendo React con David
+          Aprendiendo React con Pablo David
         </a>
       </header>
     </div>
